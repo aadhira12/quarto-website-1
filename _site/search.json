@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "sources.html",
+    "href": "sources.html",
+    "title": "Sources",
+    "section": "",
+    "text": "An overview of sources used in my project.\nThese are my sources. Here are some challenges. Quarto websites are awesome."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Aadhira is an middle school student at Acera in Winchester, Massachusetts. She enjoys coding in Python, HTML/CSS, Javascript, etc, while still learning the basic concepts of Computer Science. She is currently learning R, a language for data science. One of her favourite topics is Experimenting with Image, Audio and Speech recognition using Machine Learning models. She aspires to use CS in the field of Medicine. In her free time, Aadhira likes to play the piano, dance, golf, binge watch Studio Ghibli, and doodle cute creatures."
+  },
+  {
+    "objectID": "about.html#about-the-project",
+    "href": "about.html#about-the-project",
+    "title": "About",
+    "section": "About the Project",
+    "text": "About the Project\nThe project, Fuel Efficiency and Weight explores the correlation between the MPG and the Weight of the Car.\n\nGoals\n\nClearly shows the relationship between the MPG and Weight of the Car\nDemonstrates the concept of Fuel Efficiency\n\nThis is a very important concept for understanding this relationship\n\n\n“This is data science”\n~Preceptor\nKane’s Free Data Science Bootcamp"
+  }
+]
